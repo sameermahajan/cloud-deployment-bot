@@ -6,6 +6,8 @@ You can say something like
 
 and achieve one utterance deployment! Or you can interact with the bot specifying values for each parameter as you are prompted, until it gathers all values and launches the deployment.
 
+For how to create a custom bot in AWS Lex with AWS Lambda, you can take a look at article https://chatbotsmagazine.com/quick-start-develop-a-chat-bot-with-aws-lex-lambda-part-1-b6f7c80ebba6
+
 ## lex_bot.json
 
 It is the json for the AWS lex bot.
