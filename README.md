@@ -6,3 +6,10 @@ You can say something like
 
 and achieve one utterance deployment! Or you can interact with the bot specifying values for each parameter as you are prompted, until it gathers all values and launches the deployment.
 
+## lex_bot.json
+
+It is the json for the AWS lex bot.
+
+## lambda_function.py
+
+It is the python code for back end logic in lambda. 
