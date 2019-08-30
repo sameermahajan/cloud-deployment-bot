@@ -21,8 +21,8 @@ It is the python code for back end logic in lambda.
 
 The sample code currently given here can be extended by
 
-•	Taking parameters like CPU, RAM, disk, network to deduce instance type
-•	Other AWS services
-•	Mix of services
-•	Multi cloud
-•	Channel integrations
+-	Taking parameters like CPU, RAM, disk, network to deduce instance type
+-	Other AWS services
+-	Mix of services
+-	Multi cloud
+-	Channel integrations
