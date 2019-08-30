@@ -18,6 +18,11 @@ It is the json for the AWS lex bot.
 
 It is the python code for back end logic in lambda.
 
+## Slack Integration
+
+https://docs.aws.amazon.com/lex/latest/dg/slack-bot-association.html
+
+## Future Work
 
 The sample code currently given here can be extended by
 
