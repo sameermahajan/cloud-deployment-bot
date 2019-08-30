@@ -20,7 +20,7 @@ It is the python code for back end logic in lambda.
 
 ## Slack Integration
 
-https://docs.aws.amazon.com/lex/latest/dg/slack-bot-association.html
+Steps on how to integrate with slack: https://docs.aws.amazon.com/lex/latest/dg/slack-bot-association.html
 
 ## Future Work
 
